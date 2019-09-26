@@ -1,0 +1,12 @@
+2019-05-23 15:27:45,794 - __main__ - INFO - Start print log
+2019-05-23 15:27:45,795 - __main__ - WARNING - Something maybe fail.
+2019-05-23 15:27:45,795 - __main__ - INFO - Finish
+2019-05-23 16:20:36,383 - __main__ - INFO - start
+2019-05-23 16:20:36,386 - __main__ - WARNING - Something maybe fail.
+2019-05-23 16:20:36,386 - __main__ - INFO - Finish
+2019-05-23 16:20:53,460 - __main__ - INFO - start
+2019-05-23 16:20:53,460 - __main__ - WARNING - Something maybe fail.
+2019-05-23 16:20:53,461 - __main__ - INFO - Finish
+2019-05-23 16:21:42,976 - __main__ - INFO - start阿萨德发生颠覆地方
+2019-05-23 16:21:42,978 - __main__ - WARNING - Something maybe fail.
+2019-05-23 16:21:42,978 - __main__ - INFO - Finish

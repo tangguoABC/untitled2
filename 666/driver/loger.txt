@@ -1,0 +1,6 @@
+2019-05-23 16:22:25,401 - __main__ - INFO - start阿萨德发生颠覆地方
+2019-05-23 16:22:25,402 - __main__ - WARNING - Something maybe fail.
+2019-05-23 16:22:25,402 - __main__ - INFO - Finish
+2019-05-23 16:22:46,526 - __main__ - INFO - start_aaa
+2019-05-23 16:22:46,528 - __main__ - WARNING - Something maybe fail.
+2019-05-23 16:22:46,528 - __main__ - INFO - Finish

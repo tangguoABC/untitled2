@@ -1,0 +1,7 @@
+2019-05-23 17:20:21,344 - __main__ - INFO - Start print log
+2019-05-23 17:20:21,344 - __main__ - WARNING - Something maybe fail.
+2019-05-23 17:20:21,344 - __main__ - INFO - Finish
+2019-05-23 17:21:53,499 - __main__ - INFO - info message
+2019-05-23 17:21:53,501 - __main__ - WARNING - warn message
+2019-05-23 17:21:53,501 - __main__ - ERROR - error message
+2019-05-23 17:21:53,501 - __main__ - CRITICAL - critical message

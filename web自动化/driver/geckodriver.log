@@ -1,0 +1,347 @@
+1541123455719	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhl\\AppData\\Local\\Temp\\rust_mozprofile.ZRYdQl7xG39o"
+1541123459966	Marionette	INFO	Listening on port 52473
+1541123460045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show, line 98: ReferenceError: event is not defined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show, line 98: ReferenceError: event is not defined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show&pagenum=1&pagesize=10, line 98: ReferenceError: event is not defined
+[Parent 2396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541123522719	Marionette	INFO	Stopped listening on port 52473
+[GPU 6864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541123526771	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhl\\AppData\\Local\\Temp\\rust_mozprofile.p2uI5JgSmkSh"
+1541123530141	Marionette	INFO	Listening on port 52692
+1541123530589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show, line 98: ReferenceError: event is not defined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show&pagenum=1&pagesize=10, line 98: ReferenceError: event is not defined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show&pagesize=10&pagenum=1, line 98: ReferenceError: event is not defined
+[Parent 8556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541123842673	Marionette	INFO	Stopped listening on port 52692
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541123846896	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhl\\AppData\\Local\\Temp\\rust_mozprofile.oqXyHvXJ1fMU"
+1541123850293	Marionette	INFO	Listening on port 52983
+1541123850712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+[Child 7504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541124064725	Marionette	INFO	Stopped listening on port 52983
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541208033769	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhl\\AppData\\Local\\Temp\\rust_mozprofile.MyihKHRPGItz"
+1541208037392	Marionette	INFO	Listening on port 54211
+1541208037584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+[Parent 12356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541208079755	Marionette	INFO	Stopped listening on port 54211
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541208166910	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhl\\AppData\\Local\\Temp\\rust_mozprofile.TJLQ4MSddNJt"
+1541208170219	Marionette	INFO	Listening on port 54755
+1541208170723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript error: http://192.168.0.254/js/gettext.js, line 294: Error: Error: Gettext 'try_load_lang_po' failed. Unable to exec xmlhttprequest for link [http://192.168.0.254/i18n/zh_CN/LC_MESSAGES/webui_javascript.po]
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+[Parent 10224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5600, Chrome_ChildThread] WARNING:JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show, line 98: ReferenceError: event is not defined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show&pagenum=1&pagesize=10, line 98: ReferenceError: event is not defined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show&pagesize=10&pagenum=1, line 98: ReferenceError: event is not defined
+[Child 10764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541208265161	Marionette	INFO	Stopped listening on port 54902
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541208271511	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhl\\AppData\\Local\\Temp\\rust_mozprofile.lxSjbNkaHOLr"
+1541208274900	Marionette	INFO	Listening on port 55112
+1541208275328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+[Parent 13044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541208742688	Marionette	INFO	Stopped listening on port 55112
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541508453931	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhl\\AppData\\Local\\Temp\\rust_mozprofile.ZFVvfg6xSR2z"
+1541508461322	Marionette	INFO	Listening on port 61941
+1541508461551	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541508478958	Marionette	INFO	Stopped listening on port 61941
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541508482793	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhl\\AppData\\Local\\Temp\\rust_mozprofile.kf6fNQNQCeaT"
+1541508489342	Marionette	INFO	Listening on port 62000
+1541508489414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541508495886	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhl\\AppData\\Local\\Temp\\rust_mozprofile.kaiiDN513gfO"
+1541508500282	Marionette	INFO	Listening on port 62034
+1541508500308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+[Parent 12152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541508733816	Marionette	INFO	Stopped listening on port 62034
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541508829681	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhl\\AppData\\Local\\Temp\\rust_mozprofile.G5ugWHBFZtUv"
+1541508834698	Marionette	INFO	Listening on port 62531
+1541508835102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+[Parent 13296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541509210518	Marionette	INFO	Stopped listening on port 62531
+[GPU 188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541572921047	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhl\\AppData\\Local\\Temp\\rust_mozprofile.qqAoicQKl5VX"
+1541572924757	Marionette	INFO	Listening on port 58366
+1541572924869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show, line 98: ReferenceError: event is not defined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show&pagenum=1&pagesize=10, line 98: ReferenceError: event is not defined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show&pagesize=10&pagenum=1, line 98: ReferenceError: event is not defined
+[Child 12308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7532, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541572958481	Marionette	INFO	Stopped listening on port 58366
+[GPU 11556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541572963154	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhl\\AppData\\Local\\Temp\\rust_mozprofile.mUOyuYzN93jR"
+1541572967618	Marionette	INFO	Listening on port 58573
+1541572968080	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541573122885	Marionette	INFO	Stopped listening on port 58573
+[GPU 3500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541573127462	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhl\\AppData\\Local\\Temp\\rust_mozprofile.6ctmAyWNol6r"
+1541573130941	Marionette	INFO	Listening on port 58930
+1541573131277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_tab_show&category=system.state, line 137: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show, line 98: ReferenceError: event is not defined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show&pagenum=1&pagesize=10, line 98: ReferenceError: event is not defined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show&pagesize=10&pagenum=1, line 98: ReferenceError: event is not defined
+[Child 10472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541573689464	Marionette	INFO	Stopped listening on port 58930
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ document.frames is undefined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show, line 98: ReferenceError: event is not defined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show&pagenum=1&pagesize=10, line 98: ReferenceError: event is not defined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_address_show&pagesize=10&pagenum=1, line 98: ReferenceError: event is not defined
+[Child 1792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541573688596	Marionette	INFO	Stopped listening on port 59322
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+or: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/cgi-bin/webui?op=pcm_addrpool_edit_set, line 7: SecurityError: The operation is insecure.
+[Child 5848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541573689979	Marionette	INFO	Stopped listening on port 59530
+[GPU 1060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541574493338	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhl\\AppData\\Local\\Temp\\rust_mozprofile.GYEnbyfcKLZL"
+1541574497932	Marionette	INFO	Listening on port 61926
+1541574498277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+[Parent 5044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541575120386	Marionette	INFO	Stopped listening on port 61926
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 3572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1541576050040	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhl\\AppData\\Local\\Temp\\rust_mozprofile.QQX0drj64cWa"
+1541576053584	Marionette	INFO	Listening on port 63585
+1541576053856	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript warning: http://192.168.0.254/js/jquery-1.4.1.js, line 3579: unreachable code after return statement
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+JavaScript error: http://192.168.0.254/js/core.js, line 6: TypeError: document.frames is undefined
+[Parent 8924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541579682559	Marionette	INFO	Stopped listening on port 63585
+[GPU 5560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
