@@ -1,0 +1,11 @@
+1622196241532	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yunxi\\AppData\\Local\\Temp\\rust_mozprofile.O1g51O629dIO"
+1622196242567	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622196245451	Marionette	INFO	Listening on port 49310
+1622196245737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622196840603	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yunxi\\AppData\\Local\\Temp\\rust_mozprofile.XRZWuzKjwZIl"
+1622196841454	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622196844263	Marionette	INFO	Listening on port 53001
+1622196844757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/sbase-47057af807.js, line 70: Error: load css timeout : https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superui/css/ubase_9376fdcf.css
